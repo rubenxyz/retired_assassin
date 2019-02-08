@@ -7,15 +7,15 @@ Project status: 2019-02-05 Screenplay is in development. See more details on pro
 
 This is the repository for a short screenplay with the working title “2%”. 
 
-###Tagline
+### Tagline
 
 The short film is about an eritrean woman that is haunted by difficult memories from her past, and that complicates her relationship with her teenage daughter. Synopsis can be read (here).
 
-###PDF
+### PDF
 
 Latest build of the script is regularly uploaded [here].  
 
-###Contribute
+### Contribute
 
 The screenplay was initiated, and this repository is maintained by Ruben Sznajderman. Anybody is welcome to clone the code for the purpose of tinkering, edit, correct, comment, improve and push the script back to the head developer – just like with open source software. The license and legal disclaimer can be read [here]. 
 
@@ -42,9 +42,9 @@ Updated: 2019-02-05 The latest build of the script is being shared with producer
 
 ## Built With
 
-* [Vim](https://www.vim.org/download.php) - The web framework used
-* [Fountain.vim](https://www.vim.org/download.php) - The web framework used
 * [Fountain](https://maven.apache.org/) - Plain text markup language for screenplays.
+* [Fountain.vim](https://www.vim.org/download.php) - The web framework used
+* [Vim](https://www.vim.org/download.php) - The web framework used
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
