@@ -1,7 +1,7 @@
-# 2%
+# 2 Procent [SCREENPLAY]
 
 ## About
-This is the repository for the open source screenplay of a short film with the working title *2%*.
+This is the repository for the open source screenplay of a short film with the working title *2% procent*.
 
 ### Tagline
 
@@ -69,20 +69,20 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ###### Research
 
-1.[Report of the Special Rapporteur on the situation of human rights in Eritrea, Sheila B. Keetharuth](https://reliefweb.int/report/eritrea/report-special-rapporteur-situation-human-rights-eritrea-sheila-b-keetharuth-ahrc3850)
-2.[Are Eritrea government spies posing as refugee interpreters?](https://www.aljazeera.com/indepth/features/eritrea-government-spies-posing-refugee-interpreters-180225191907769.html)
-3.[This country is the last place in the world where you would want to serve in the military](https://www.businessinsider.com/eritrea-is-the-last-place-in-the-world-you-would-want-to-serve-in-the-military-2015-6?r=UK&IR=T)
-4.[Eritreans in Sweden](https://en.wikipedia.org/wiki/Eritreans_in_Sweden)
-5.[Examining Sexual Violence in the Military Within the Context of Eritrean Asylum Claims Presented in Norway](https://academic.oup.com/ijrl/article-abstract/19/3/471/1557358?redirectedFrom=fulltext)
-6.[The 2% Tax for Eritreans in the diaspora](https://www.dsp-groep.eu/projecten/the-2-pct-tax-for-eritreans-in-the-diaspora/)
+1. [Report of the Special Rapporteur on the situation of human rights in Eritrea, Sheila B. Keetharuth](https://reliefweb.int/report/eritrea/report-special-rapporteur-situation-human-rights-eritrea-sheila-b-keetharuth-ahrc3850)
+2. [Are Eritrea government spies posing as refugee interpreters?](https://www.aljazeera.com/indepth/features/eritrea-government-spies-posing-refugee-interpreters-180225191907769.html)
+3. [This country is the last place in the world where you would want to serve in the military](https://www.businessinsider.com/eritrea-is-the-last-place-in-the-world-you-would-want-to-serve-in-the-military-2015-6?r=UK&IR=T)
+4. [Eritreans in Sweden](https://en.wikipedia.org/wiki/Eritreans_in_Sweden)
+5. [Examining Sexual Violence in the Military Within the Context of Eritrean Asylum Claims Presented in Norway](https://academic.oup.com/ijrl/article-abstract/19/3/471/1557358?redirectedFrom=fulltext)
+6. [The 2% Tax for Eritreans in the diaspora](https://www.dsp-groep.eu/projecten/the-2-pct-tax-for-eritreans-in-the-diaspora/)
 [ERITREA: Sexual Abuse of Women in the Military, Supplemental list of Supporting Documents](https://www.makeeverywomancount.org/index.php/tools/resources/798-eritrea-sexual-abuse-of-women-in-the-military-supplemental-list-of-supporting-documents)
-7.[Voice of Meselna Delina EXPOSE - Eritrean Embassy Stockholm](https://youtu.be/EQeRSuSZ21Y)
-8.[Will life change for Eritreans amid diplomatic dawn](https://youtu.be/os5jjMQAoEg)
-9.[Interview with President Isaias Afwerki, November 03, 2018](https://youtu.be/FUWQG6XlEDo)
+7. [Voice of Meselna Delina EXPOSE - Eritrean Embassy Stockholm](https://youtu.be/EQeRSuSZ21Y)
+8. [Will life change for Eritreans amid diplomatic dawn](https://youtu.be/os5jjMQAoEg)
+9. [Interview with President Isaias Afwerki, November 03, 2018](https://youtu.be/FUWQG6XlEDo)
 [Documentary: Eritrea: A Nation in Isolation](https://youtu.be/91lg2Strqpo)
-10.[Diaspora tax for Eritreans living in UK investigated by Metropolitan police](https://www.theguardian.com/global-development/2015/jun/09/eritrea-diaspora-tax-uk-investigated-metropolitan-police)
-11.[Eritrea human rights abuses may be crimes against humanity, says UN ](https://www.theguardian.com/global-development/2015/jun/08/human-rights-abuses-eritrea-may-be-crimes-against-humanity-un-report)
-12.[Crushing repression of Eritrea's citizens is driving them into migrant boats](https://www.theguardian.com/global-development/2015/apr/20/crushing-repression-eritreas-citizens-italy-migrant-boats)
+10. [Diaspora tax for Eritreans living in UK investigated by Metropolitan police](https://www.theguardian.com/global-development/2015/jun/09/eritrea-diaspora-tax-uk-investigated-metropolitan-police)
+11. [Eritrea human rights abuses may be crimes against humanity, says UN ](https://www.theguardian.com/global-development/2015/jun/08/human-rights-abuses-eritrea-may-be-crimes-against-humanity-un-report)
+12. [Crushing repression of Eritrea's citizens is driving them into migrant boats](https://www.theguardian.com/global-development/2015/apr/20/crushing-repression-eritreas-citizens-italy-migrant-boats)
 
 ## Acknowledgments
 
