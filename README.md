@@ -1,7 +1,7 @@
 # 2 Procent [SCREENPLAY]
 
 ## About
-This is the repository for the open source screenplay of a short film with the working title *2% procent*.
+This is the repository for the open source screenplay of a short film with the working title *Two Procent*.
 
 ### Tagline
 
