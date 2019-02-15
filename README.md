@@ -9,7 +9,7 @@ A short film about an eritrean migrant that is living in Sweden with her teenage
 
 ### Read the script
 
-The latest version of the script can be downloaded as an PDF from [here.](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0)
+The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0).
 
 ### Project status
 Update: 2019-02-05 - The screenplay is in development and the latest build is being shared with indie film producers for feedback.
