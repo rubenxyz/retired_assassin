@@ -1,4 +1,4 @@
-# 2 Percent [SCREENPLAY]
+# 2 Percent [SCREENPLAY] :U+1F3AC: :U+1F3A5: :U+1F39E:
 
 ## About
 This is the repository for the open source screenplay of a short film with the working title *Two Percent*.
@@ -7,25 +7,25 @@ This is the repository for the open source screenplay of a short film with the w
 
 Two Percent is a a short scene that explore the relationship between eritrean migrant woman, haunted by her past, and the relationship with her teenage daughter.
 
-### Read the script
+### Read the script :U+1F5A8:
 
 The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0).
 
 ### Project status
 Update: 2019-02-05 - The screenplay is in development and the latest build is being shared with Swedish film producers for feedback on the story and how to pitch it to get the project financed.
 
-### N00bs
+### N00bs :U+1F92F:
 
 If you come from filmmaking and don’t know anything about git, repositories, and is wondering what a the heck a screenplay is doing on platform for programmers, feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
 
 ### Authors
 
-* **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/1b2l2qkfq43wds9/2percent_scan.pdf?dl=0) - [http://rubensznajderman.com](http://rubensznajderman.com)
+* **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/1b2l2qkfq43wds9/2percent_scan.pdf?dl=0) 
 * **Ludvig Geijer Michaeli** - *Transcribing the 1st draft*
 
 #### Additional contributors
 
-* **Your name here** - xxxxxxxxxxx ;-)
+* **Your name here** :U+1F609:
  
 ### Contribute
 
@@ -53,14 +53,14 @@ Git is software for version control. Follow [these instructions](https://gist.gi
 git clone https://github.com/rubensz/2procent.git
 ```
 
-### License
+### License :U+2696:
 
 This project is licensed under the Creative Commons Attribution 4.0 International
  - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 #### Built With
-* [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with Pen. Yes, actual pen that you hold in your hand!
+* [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with Pen. Yes, actual pen that you hold in your hand! :U+2712:
 * [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
 * [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
