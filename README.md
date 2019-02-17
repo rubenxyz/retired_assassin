@@ -50,7 +50,7 @@ Git is software for version control. Follow [these instructions](https://gist.gi
 ### Cloning
 
 ```
-git clone https://github.com/rubensz/2procent.git
+git clone https://github.com/rubensz/2percent.git
 ```
 
 ### License
