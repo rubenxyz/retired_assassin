@@ -1,6 +1,5 @@
 # 2 Percent [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-## About
 This is the repository for the open source screenplay of a short film with the working title *Two Percent*.
 
 ### Short tagline
