@@ -1,19 +1,17 @@
 # 2 Percent [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-This is the repository for the open source screenplay of the short film *Two Percent*.
+This is the repository for the screenplay of the short film *Two Percent*.
 
 ### Short tagline
 
-The film is a short scene that explore the relationship between eritrean migrant woman, haunted by her past, and the relationship with her teenage daughter when they get an unexpected guest:gun::boom::skull:. 
+The film is a short scene that explore the relationship between eritrean migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
 
 ### Read the script :page_facing_up:
 
 The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0).
 
 ### Project status
-Update: 2019-02-05 - The screenplay is in development and the latest build is being shared with Swedish film producers for feedback on the story and how to pitch it to get the project financed.
-
-
+Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch.
 
 ### Authors
 
@@ -21,23 +19,23 @@ Update: 2019-02-05 - The screenplay is in development and the latest build is be
 * **Your name here** :wink:
 
 #### Additional contributors
-* **Ludvig Geijer Michaeli** - *Transcribing the 1st draft*
+* **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
 * **Your name here** :wink:
 
 #### Built With
-* [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with Pen. Yes, actual pen that you hold in your hand! :black_nib:
-* [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
-* [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
-* [Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts fountain files to PDF.
+* :black_nib:[Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
+* :computer:[Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
+* :computer:[Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
+* :computer:[Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
+* :scroll:[Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts files written in Fountain to the industry standard screenplay format in PDF.
 
 ### N:dizzy_face::dizzy_face:b disclaimer 
 
-If you don’t know anything about git, repositories, and is wondering what a the heck a screenplay is doing on platform for programmers, feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
+If you don’t know anything about git and repositories feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
 
 ### Contribute
 
-As this screenplay is open source, anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software. The [head developer](https://github.com/rubensz) will review diff, merge changes to main branch and credit contributors. 
+As this screenplay is open source, anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software. The [head developer](https://github.com/rubensz) will review diff, merge accepted contributions to the main branch and credit contributors. 
 
 ### Versioning
 
@@ -47,11 +45,11 @@ We try to use [SemVer](http://semver.org/) for versioning as a source of inspira
 
 #### Fountain Syntax
 
-This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugin for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
+This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugins for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
 
 #### Git:octocat:
 
-Git is software for version control. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux.
+Git is software for version control of computer code. Just like computer code, screenplays are a set of instructions according to a standardized formatting, and can hence utilize the powerful tools used by programmers. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux.
 
 ### Cloning
 
@@ -63,9 +61,6 @@ git clone https://github.com/rubensz/2percent.git
 
 This project is licensed under the Creative Commons Attribution 4.0 International
  - see the [LICENSE](LICENSE) file for details.
-
-
-
 
 ## Acknowledgments
 
