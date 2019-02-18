@@ -1,10 +1,10 @@
 # 2 Percent [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-This is the repository for the open source screenplay of a short film with the working title *Two Percent*.
+This is the repository for the open source screenplay of the short film *Two Percent*.
 
 ### Short tagline
 
-Two Percent is a a short scene that explore the relationship between eritrean migrant woman, haunted by her past, and the relationship with her teenage daughter when something unexpected happens. :gun: 
+The film is a short scene that explore the relationship between eritrean migrant woman, haunted by her past, and the relationship with her teenage daughter when they get an unexpected guest:gun::boom::skull:. 
 
 ### Read the script :page_facing_up:
 
@@ -13,36 +13,43 @@ The latest version of the script can be downloaded as an PDF from [here](https:/
 ### Project status
 Update: 2019-02-05 - The screenplay is in development and the latest build is being shared with Swedish film producers for feedback on the story and how to pitch it to get the project financed.
 
-### N00bs :dizzy_face:
 
-If you come from filmmaking and don’t know anything about git, repositories, and is wondering what a the heck a screenplay is doing on platform for programmers, feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
 
 ### Authors
 
 * **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/1b2l2qkfq43wds9/2percent_scan.pdf?dl=0) 
-* **Ludvig Geijer Michaeli** - *Transcribing the 1st draft*
+* **Your name here** :wink:
 
 #### Additional contributors
-
+* **Ludvig Geijer Michaeli** - *Transcribing the 1st draft*
 * **Your name here** :wink:
- 
+
+#### Built With
+* [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with Pen. Yes, actual pen that you hold in your hand! :black_nib:
+* [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
+* [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
+* [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
+* [Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts fountain files to PDF.
+
+### N:dizzy_face::dizzy_face:b disclaimer 
+
+If you don’t know anything about git, repositories, and is wondering what a the heck a screenplay is doing on platform for programmers, feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
+
 ### Contribute
 
-The story and first draft was written by [rubensz](https://github.com/rubensz), who is also maintaining this repository during development, but anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software.
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on submitting pull requests to the head writer.
+As this screenplay is open source, anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software. The [head developer](https://github.com/rubensz) will review diff, merge changes to main branch and credit contributors. 
 
 ### Versioning
 
-We use [SemVer](http://semver.org/) for versioning as a source of inspiration for best practice. I hope create a versioning scheme for screenplays in the future.
+We try to use [SemVer](http://semver.org/) for versioning as a source of inspiration for best practice. I hope create a versioning scheme for screenplays in the future.
 
 ### Prerequisites
 
-##### Fountain Syntax
+#### Fountain Syntax
 
-This script is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugin for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
+This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugin for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
 
-##### Git
+#### Git:octocat:
 
 Git is software for version control. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux
 
@@ -58,12 +65,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
  - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-#### Built With
-* [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with Pen. Yes, actual pen that you hold in your hand! :black_nib:
-* [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
-* [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
-* [Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts fountain files to PDF.
+
 
 ## Acknowledgments
 
@@ -73,7 +75,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 * Thank you to the eritrean human rights activists that have shared your thoughts on the project.
 
 
-###### Research by initial author
+###### Research footnotes for the first draft:
 
 1. [Report of the Special Rapporteur on the situation of human rights in Eritrea, Sheila B. Keetharuth.](https://reliefweb.int/report/eritrea/report-special-rapporteur-situation-human-rights-eritrea-sheila-b-keetharuth-ahrc3850)
 2. [Are Eritrea government spies posing as refugee interpreters?](https://www.aljazeera.com/indepth/features/eritrea-government-spies-posing-refugee-interpreters-180225191907769.html)
