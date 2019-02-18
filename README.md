@@ -51,7 +51,7 @@ This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fount
 
 #### Git:octocat:
 
-Git is software for version control. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux
+Git is software for version control. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux.
 
 ### Cloning
 
@@ -62,7 +62,7 @@ git clone https://github.com/rubensz/2percent.git
 ### License
 
 This project is licensed under the Creative Commons Attribution 4.0 International
- - see the [LICENSE.md](LICENSE.md) file for details.
+ - see the [LICENSE](LICENSE) file for details.
 
 
 
