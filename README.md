@@ -23,10 +23,10 @@ Update: 2019-02-05 The screenplay is in development and the latest build is bein
 * **Your name here** :wink:
 
 #### Built With
-* :black_nib:[Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
-* :computer:[Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* :computer:[Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
-* :computer:[Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
+* :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
+* :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
+* :computer: [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
+* :computer: [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
 * :scroll:[Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts files written in Fountain to the industry standard screenplay format in PDF.
 
 ### N:dizzy_face::dizzy_face:b disclaimer 
@@ -106,3 +106,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 30. [Demonstrationer vid Eritrea-festival.](https://www.dn.se/nyheter/sverige/demonstrationer-vid-eritrea-festival)
 31. [Sverige utvisar eritreansk diplomat.](https://www.aftonbladet.se/nyheter/a/zL9xAO/sverige-utvisar-eritreansk-diplomat)
 32. [En person omhändertagen vid eritreansk festival.](https://www.expressen.se/nyheter/en-person-omhandertagen-vid-eritreansk-festival)
+33. [Eritreaner tvingas betala skatt.](https://www.svt.se/agenda/eritreaner-tvingas-betala-skatt)
+34. [Stoppa eritreanska regimens utpressning.](https://www.expressen.se/debatt/stoppa-eritreanska-regimens-utpressning)
+35. [Flyktingarna betalar skatt till Eritrea.](https://www.aftonbladet.se/nyheter/a/J1n6zJ/flyktingarna-betalar-skatt--till-eritrea)
+
