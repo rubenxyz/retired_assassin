@@ -6,7 +6,7 @@ The film is a short scene that explore the relationship between eritrean migrant
 
 ### Read the script :page_facing_up:
 
-The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0).
+The latest version of the script can be downloaded as an PDF from [here](2percent_1.0.0.pdf).
 
 ### Project status
 Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
