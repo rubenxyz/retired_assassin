@@ -20,12 +20,6 @@ Update: 2019-02-05 The screenplay is in development and the latest build is bein
 * **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
 * **Your name here** :wink:
 
-### Cloning
-
-```
-git clone https://github.com/rubensz/2percent.git
-```
-
 #### Built With
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
@@ -36,6 +30,12 @@ git clone https://github.com/rubensz/2percent.git
 ### N:dizzy_face::dizzy_face:b disclaimer 
 
 If you don’t know anything about git and repositories feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
+
+### Cloning
+
+```
+git clone https://github.com/rubensz/2percent.git
+```
 
 ### Contribute
 
