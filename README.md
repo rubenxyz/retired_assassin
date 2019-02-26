@@ -1,7 +1,5 @@
 # 2 Percent [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-This is the repository for the screenplay of the short film *Two Percent*.
-
 ### Short tagline
 
 The film is a short scene that explore the relationship between eritrean migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
@@ -11,7 +9,7 @@ The film is a short scene that explore the relationship between eritrean migrant
 The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/68zze6i9t9zne5z/AACOvYiNDeTl01ULEmjbZaD3a?dl=0).
 
 ### Project status
-Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch.
+Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
 
 ### Authors
 
@@ -21,6 +19,12 @@ Update: 2019-02-05 The screenplay is in development and the latest build is bein
 #### Additional contributors
 * **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
 * **Your name here** :wink:
+
+### Cloning
+
+```
+git clone https://github.com/rubensz/2percent.git
+```
 
 #### Built With
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
@@ -50,12 +54,6 @@ This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fount
 #### Git:octocat:
 
 Git is software for version control of computer code. Just like computer code, screenplays are a set of instructions according to a standardized formatting, and can hence utilize the powerful tools used by programmers. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux.
-
-### Cloning
-
-```
-git clone https://github.com/rubensz/2percent.git
-```
 
 ### License
 
