@@ -2,7 +2,7 @@
 
 ### Short tagline
 
-The film is a short scene that explore the relationship between eritrean migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
+This is the repository for the screenplay of the short film 2 Percent. The film is a short scene that explore the relationship between eritrean migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
 
 ### Read the script :page_facing_up:
 
