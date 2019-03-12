@@ -6,7 +6,7 @@ This is the repository for the screenplay of the short film 2 Percent. The film 
 
 ### Read the script :page_facing_up:
 
-The latest version of the script can be downloaded as an PDF from [here](2percent_1.0.1.pdf).
+The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/2percent/blob/master/2percent1.0.1.pdf).
 
 ### Project status
 Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
