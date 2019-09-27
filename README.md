@@ -6,7 +6,7 @@ This is the repository for the screenplay of the short film Retied Assasin. The 
 
 ### Read the script :page_facing_up:
 
-The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin2.0.1).
+The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin2.0.1.pdf).
 
 ### Project status
 Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
