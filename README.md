@@ -1,12 +1,12 @@
-# 2 Percent [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
+# Retired Assassin [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
 ### Short tagline
 
-This is the repository for the screenplay of the short film 2 Percent. The film is a short scene that explore the relationship between eritrean migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
+This is the repository for the screenplay of the short film Retied Assasin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
 
 ### Read the script :page_facing_up:
 
-The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/2percent/blob/master/2percent1.0.1.pdf).
+The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/retired_assasin/blob/master/retired_assassin2.0.1).
 
 ### Project status
 Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
@@ -49,7 +49,7 @@ We try to use [SemVer](http://semver.org/) for versioning as a source of inspira
 
 #### Fountain Syntax
 
-This [screenplay](https://github.com/rubensz/2percent/blob/master/2percent.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugins for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
+This [screenplay](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugins for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
 
 #### Git:octocat:
 
@@ -64,8 +64,8 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 #### From Ruben Sznajderman
 
-* Thanks to all my eritrean friends for reading the script and sharing your thoughts.
-* Thank you to the eritrean human rights activists that have shared your thoughts on the project.
+* Thanks to all my friends for reading the script and sharing your thoughts.
+* Thank you to the human rights activists that have shared your thoughts on the project.
 
 
 ###### Research footnotes for the first draft:
