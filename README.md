@@ -34,7 +34,7 @@ If you don’t know anything about git and repositories feel free to read [this]
 ### Cloning
 
 ```
-git clone https://github.com/rubensz/2percent.git
+git clone https://github.com/rubensz/retired_assassin.git
 ```
 
 ### Contribute
