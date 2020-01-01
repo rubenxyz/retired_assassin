@@ -1,15 +1,18 @@
 # Retired Assassin [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-### Short tagline
+###Tagline
 
-This is the repository for the screenplay of the short film Retied Assasin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
+This is the repository for the screenplay of the short film Retied Assassin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
+
+(If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
 ### Read the script :page_facing_up:
 
 The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin.pdf).
 
 ### Project status
-Update: 2019-02-05 The screenplay is in development and the latest build is being shared with prospect producers for feedback on the story and how to pitch the film to potential investors. 
+Last change made: 01/01/2020
+Current status: We are lurching toward pre-production with only one major character left to be cast. 
 
 ### Authors
 
@@ -27,10 +30,6 @@ Update: 2019-02-05 The screenplay is in development and the latest build is bein
 * :computer: [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
 * :scroll:[Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts files written in Fountain to the industry standard screenplay format in PDF.
 
-### N:dizzy_face::dizzy_face:b disclaimer 
-
-If you don’t know anything about git and repositories feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
-
 ### Cloning
 
 ```
@@ -39,7 +38,8 @@ git clone https://github.com/rubensz/retired_assassin.git
 
 ### Contribute
 
-As this screenplay is open source, anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software. The [head developer](https://github.com/rubensz) will review diff, merge accepted contributions to the main branch and credit contributors. 
+### Contribute
+As this screenplay is open source, anybody is welcome to clone the repo, tinker, edit, comment, improve and push the code back to the repository – just like any other open source code. The [maintainer](https://github.com/rubensz) will review and merge accepted contributions to the main branch. All contributors will be credited when the script goes into production.
 
 ### License
 
@@ -49,7 +49,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 ## Acknowledgments
 
 #### From Ruben Sznajderman
-
 * Thanks to all my friends for reading the script and sharing your thoughts.
 * Thank you to the human rights activists that have shared your thoughts on the project.
 
