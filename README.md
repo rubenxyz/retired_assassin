@@ -41,20 +41,6 @@ git clone https://github.com/rubensz/retired_assassin.git
 
 As this screenplay is open source, anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software. The [head developer](https://github.com/rubensz) will review diff, merge accepted contributions to the main branch and credit contributors. 
 
-### Versioning
-
-We try to use [SemVer](http://semver.org/) for versioning as a source of inspiration for best practice. I hope create a versioning scheme for screenplays in the future.
-
-### Prerequisites
-
-#### Fountain Syntax
-
-This [screenplay](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin.fountain) is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugins for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
-
-#### Git:octocat:
-
-Git is software for version control of computer code. Just like computer code, screenplays are a set of instructions according to a standardized formatting, and can hence utilize the powerful tools used by programmers. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux.
-
 ### License
 
 This project is licensed under the Creative Commons Attribution 4.0 International
