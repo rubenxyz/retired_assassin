@@ -37,8 +37,6 @@ git clone https://github.com/rubensz/retired_assassin.git
 ```
 
 ### Contribute
-
-### Contribute
 As this screenplay is open source, anybody is welcome to clone the repo, tinker, edit, comment, improve and push the code back to the repository – just like any other open source code. The [maintainer](https://github.com/rubensz) will review and merge accepted contributions to the main branch. All contributors will be credited when the script goes into production.
 
 ### License
