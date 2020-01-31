@@ -25,11 +25,10 @@ Current status: We are lurching toward pre-production with only one major charac
 * **Your name here** :wink:
 
 #### Built With
-* :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
+* :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* :computer: [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
-* :computer: [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
-* :scroll:[Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) - Terminal application that converts files written in Fountain to the industry standard screenplay format in PDF.
+* :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
+* :computer: [Fountain.vim](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
 
 ### Cloning
 
