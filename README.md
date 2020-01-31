@@ -4,7 +4,8 @@
 
 This is the repository for the screenplay of the short film Retied Assassin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:. 
 
-(If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
+![screencapture](screencapture.gif)  
+If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).
 
 ### Read the script :page_facing_up:
 
