@@ -15,6 +15,8 @@ The latest version of the script can be downloaded as an PDF from [here](https:/
 Last change made: 01/01/2020   
 Current status: We are lurching toward pre-production with only one major character left to be cast. 
 
+![moodboard](retired-assassin-mood.png?raw=true)   
+
 ### Authors
 
 * **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/1b2l2qkfq43wds9/2percent_scan.pdf?dl=0) 
@@ -28,7 +30,7 @@ Current status: We are lurching toward pre-production with only one major charac
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
-* :computer: [Fountain.vim](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
+* :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
 
 ### Cloning
 
