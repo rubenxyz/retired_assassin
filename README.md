@@ -12,8 +12,8 @@ If you're wondering why the heck this screenplay is on Github or you don't know 
 The latest version of the script can be downloaded as an PDF from [here](https://github.com/rubensz/retired_assassin/blob/master/retired_assassin.pdf).
 
 ### Project status
-Last change made: 01/01/2020   
-Current status: We are lurching toward pre-production with only one major character left to be cast. 
+Last change made: 03/01/2020   
+Current status: The short has been shot and we are going into editing.  
 
 ![moodboard](retired-assassin-mood.png?raw=true)   
 
