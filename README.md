@@ -13,9 +13,7 @@ The latest version of the script can be downloaded as an PDF from [here](https:/
 
 ### Project status
 Last change made: 03/01/2020   
-Current status: The short has been shot and we are going into editing.  
-
-![moodboard](retired-assassin-mood.png?raw=true)   
+Current status: The short has been shot and we are going into editing.   
 
 ### Authors
 
