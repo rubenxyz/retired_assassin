@@ -1,10 +1,12 @@
 # Retired Assassin [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
+![bts](bts.jpg?raw=true)
+Foto: Hedda Axelsson
+
 ### Tagline
 
 This is the repository for the screenplay of the short film Retied Assassin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:.   
 
-![screencapture](screencapture.gif?raw=true)     
 If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).
 
 ### Read the script :page_facing_up:
@@ -13,31 +15,34 @@ The latest version of the script can be downloaded as an PDF from [here](https:/
 
 ### Project status
 Last change made: 03/01/2020   
-Current status: The short has been shot and we are going into editing.   
+Current status: The short has been shot and is in editing.   
 
 ### Authors
 
 * **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/1b2l2qkfq43wds9/2percent_scan.pdf?dl=0) 
-* **Your name here** :wink:
 
 #### Additional contributors
 * **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
-* **Your name here** :wink:
+* ** Mistre Tesfaye - *Notes and ideas*
+* ** Manusträffen - * Stockholm based write's group
 
 #### Built With
+![screencapture](screencapture.gif?raw=true)     
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
 * :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
+  
+![screencapture](screencapture.gif?raw=true)     
 
-### Cloning
+### Contribute
+As this screenplay is open source, anybody is welcome to clone the repo, tinker, edit, comment, improve and push the code back to the repository – just like any other open source code. The [maintainer](https://github.com/rubensz) will review and merge accepted contributions to the main branch. All contributors will be credited when the script goes into production.
+
+#### Cloning
 
 ```
 git clone https://github.com/rubensz/retired_assassin.git
 ```
-
-### Contribute
-As this screenplay is open source, anybody is welcome to clone the repo, tinker, edit, comment, improve and push the code back to the repository – just like any other open source code. The [maintainer](https://github.com/rubensz) will review and merge accepted contributions to the main branch. All contributors will be credited when the script goes into production.
 
 ### License
 
