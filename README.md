@@ -1,6 +1,6 @@
 # Retired Assassin [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-![bts](bts.jpg?raw=true)
+![bts](bts1.jpg?raw=true)
 Foto: Hedda Axelsson
 
 ### Tagline
@@ -8,6 +8,9 @@ Foto: Hedda Axelsson
 This is the repository for the screenplay of the short film Retied Assassin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:.   
 
 If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).
+
+![bts2](bts2.jpg?raw=true)
+Foto: Hedda Axelsson
 
 ### Read the script :page_facing_up:
 
@@ -26,8 +29,10 @@ Current status: The short has been shot and is in editing.
 * ** Mistre Tesfaye - *Notes and ideas*
 * ** Manusträffen - * Stockholm based write's group
 
+![bts3](bts3.jpg?raw=true)
+Foto: Hedda Axelsson
+
 #### Built With
-![screencapture](screencapture.gif?raw=true)     
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
@@ -54,7 +59,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 #### From Ruben Sznajderman
 * Thanks to all my friends for reading the script and sharing your thoughts.
 * Thank you to the human rights activists that have shared your thoughts on the project.
-
 
 ###### Research footnotes for the first draft:
 
