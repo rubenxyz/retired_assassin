@@ -7,6 +7,8 @@ Foto: Hedda Axelsson
 
 This is the repository for the screenplay of the short film Retied Assassin. The film is a short scene that explore the relationship between a migrant woman and her teenage daughter when they are visited by an unexpected guest:gun::boom::skull:.   
 
+Read more on project website [www.retired-assassin.com](http://retired-assassin.com).  
+  
 If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).
 
 ![bts2](images/bts2.jpg?raw=true)
